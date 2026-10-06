@@ -1,0 +1,8 @@
+{
+  "store":{"name":"Accessory Gucci","language":"fa","direction":"rtl","country":"Iran","currency":"IRR","currency_label":"تومان"},
+  "settings":{"theme":"luxury-dark","accent":"gold","static_mode":true},
+  "homepage":{"hero_title":"استایل خودت را کامل کن","hero_subtitle":"مجموعه‌ای از اکسسوری‌های منتخب با تجربه‌ای مدرن، مینیمال و لوکس.","hero_cta":"مشاهده محصولات"},
+  "categories":[{"id":1,"name":"انگشتر"},{"id":2,"name":"گردنبند"},{"id":3,"name":"دستبند"},{"id":4,"name":"ساعت"},{"id":5,"name":"عینک"},{"id":6,"name":"کیف"},{"id":7,"name":"کلاه"},{"id":8,"name":"اکسسوری زنانه"}],
+  "products":[{"id":101,"name":"Ring Noir","category":"انگشتر","price":2890000,"oldPrice":0,"stock":8,"image":"","featured":true,"new":true},{"id":102,"name":"Golden Chain","category":"گردنبند","price":4590000,"oldPrice":4990000,"stock":5,"image":"","featured":true,"new":true},{"id":103,"name":"Classic Bracelet","category":"دستبند","price":3290000,"oldPrice":0,"stock":12,"image":"","featured":true,"new":false},{"id":104,"name":"Luxury Watch","category":"ساعت","price":12900000,"oldPrice":14900000,"stock":3,"image":"","featured":true,"new":true}],
+  "users":[],"orders":[],"coupons":[],"reviews":[],"admins":[{"id":1,"username":"admin","role":"super_admin"}]
+}
